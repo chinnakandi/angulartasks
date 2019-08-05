@@ -1,0 +1,36 @@
+{
+  "Employee": [
+    {
+      "id": 3,
+      "firstName": "Krishna Reddy",
+      "lastName": "kandi",
+      "contactNumber": "9676978499",
+      "code": "600100",
+      "address": "chennai"
+    },
+    {
+      "id": 4,
+      "firstName": "chinnappa",
+      "lastName": "Reddy",
+      "code": "1234",
+      "contactNumber": "9087109138",
+      "address": "AP"
+    },
+    {
+      "id": 5,
+      "firstName": "Anjimallaiah",
+      "lastName": "g",
+      "code": "569728",
+      "contactNumber": "9539759",
+      "address": "AP"
+    },
+    {
+      "id": 6,
+      "firstName": "Satish",
+      "lastName": "A",
+      "code": "3853568",
+      "contactNumber": "Ap",
+      "address": "8346"
+    }
+  ]
+}
